@@ -332,5 +332,13 @@ http://www.netbsd.org/docs/pkgsrc/
 smartos mail list history:
 http://www.listbox.com/member/archive/184463
 
+listbox of SmartOS-discuss
+http://www.listbox.com/member/archive/184463/
+
+illumos fix bug version 
+https://github.com/joyent/illumos-extra
+
+type of virtualization
+http://blog.csdn.net/babyfacer/article/details/8577333
 
 
