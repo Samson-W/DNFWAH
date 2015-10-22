@@ -1,7 +1,10 @@
+All writtings has been pushlished in DNFWAH are CC-By 4.0:
+http://creativecommons.org/licenses/by/4.0/
+
 --------------------------------------------------
 D O   N O T   F U C K   W I T H   A   H A C K E R
 
-DNFWAH is a underground ezine. We are sharing something that it's only
+DNFWAH is an underground ezine. We are sharing something that it's only
 hackers who are care about --- Hacker's life. You might be interested
 send us your article/paper if you're a hacker and following hacker
 ethics. We are not computer security hackers. But we would like to see
@@ -9,7 +12,7 @@ computer hacker and generic hacker join us, to share hacking
 experience each other. This ezine it's totally free. By the community,
 for the community!
 
-DNFWAH Issue 4 CFP now open. We want you to share your hacking
+DNFWAH Issue 5 CFP now open. We want you to share your hacking
 life. It doesn't matter what fields you are hacking with. Computer
 science/engineering, security( of course--), art, biological hacks(
 wow, sounds coool ha), etc
@@ -19,6 +22,22 @@ Languages: Chinese/English. Don't send us an Elvish paper, plz@!
 Sendto: citypw@gmail.com
 
 DEADLINE: I don't know.
+
+DNFWAH Issue 4 is released in Apr 20 2015
+
+├── d4_0x00_intro.txt
+├── d4_0x01_DNFWAH_archeological_hacking_on_pax.txt
+├── d4_0x02_DNFWAH_gnu-linux_security_baseline_hardening.txt
+├── d4_0x03_DNFWAH_hack_back_diy_guide.txt
+├── d4_0x04_DNFWAH_World_News.txt
+├── d4_0x05_DNFWAH_hacker_manifesto_the_conscience_of_a_real_hacker.txt
+├── d4_0x06_DNFWAH_the_awesome_truth_about_hackers.txt
+├── d4_0x07_DNFWAH_shellshock_bash_story_cve-2014-6271.txt
+├── d4_0x08_DNFWAH_SmartOS_security_assessment.txt
+├── d4_0x09_DNFWAH_symbol_recognition_of_striped_lib.txt
+├── d4_0x0a_DNFWAH_linux_kernel_patch.txt
+└── d4_0x0b_DNFWAH_diy_your_own_android_emu.txt
+
 
 The 3rd issue is released in Apr 1st 2014( We don't fool anyone;-)):
 
@@ -32,42 +51,28 @@ The 3rd issue is released in Apr 1st 2014( We don't fool anyone;-)):
 ├── d3_0x07_intro_secret_sharing.txt
 └── d3_0x08_intro_to_big_data.txt
 
+
 The 2nd issue is released in Dec 31st, 2011:
 
-0x00 Introduction f0Rsaken
+├── d2_0x00_Introduction f0Rsaken
+├── d2_0x01_A & G trends II Shawn the R0ck
+├── d2_0x02_Hacking on the ext of future GNU System NalaGinrut
+├── d2_0x03_Loopback f0Rsaken
+├── d2_0x04_DNFWAH World News f0Rsaken
+├── d2_0x05_The Dic of the new village of south lake Sissy
+├── d2_0x06_Hacking the wholism of linux net Shawn the R0ck
+└── d2_0x07_Reviews of The Consequences of Ideas Cat
 
-0x01 A & G trends II Shawn the R0ck
-
-0x02 Hacking on the ext of future GNU System NalaGinrut
-
-0x03 Loopback f0Rsaken
-
-0x04 DNFWAH World News f0Rsaken
-
-0x05 The Dic of the new village of south lake Sissy
-
-0x06 Hacking the wholism of linux net Shawn the R0ck
-
-0x07 Reviews of The Consequences of Ideas Cat
 
 The 1st issue is released in May 8th, 2011:
 
-d1_0x00_Introduction
-
-d1_0x01_A_G_trends
-
-d1_0x02_How_to_start_contributing_to_or_using_Open_Source_Software
-
-d1_0x03_The_way_of_NGO_hacking
-
-d1_0x04_DNFWAH_World_News
-
-d1_0x05_Hacking_libpcap_and_tcpdump
-
-d1_0x06_Hacking_snort
-
-d1_0x07_The_chapter_one_answer_of_sicp
-
-d1_0x08_My_way_of_music_hacking
-
-d1_0x09_Summary_of_Complex_system 
+├── d1_0x00_Introduction
+├── d1_0x01_A_G_trends
+├── d1_0x02_How_to_start_contributing_to_or_using_Open_Source_Software
+├── d1_0x03_The_way_of_NGO_hacking
+├── d1_0x04_DNFWAH_World_News
+├── d1_0x05_Hacking_libpcap_and_tcpdump
+├── d1_0x06_Hacking_snort
+├── d1_0x07_The_chapter_one_answer_of_sicp
+├── d1_0x08_My_way_of_music_hacking
+└── d1_0x09_Summary_of_Complex_system
